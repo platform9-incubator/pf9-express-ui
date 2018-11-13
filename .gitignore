@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/server/host-csv.csv
+/server/openstack-rc.rc
+/server/pf9-express.conf
